@@ -1,30 +1,25 @@
 ---
-# Second Publication
-
-
-title: 'TrendsBot: Verificando a veracidade das mensagens do Telegram utilizando Data Stream'
+title: 'Univariate vs multivariate prediction for containerised applications auto-scaling: a comparative study'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Marcus Xavier
-  - David C. da Cunha
-  - José C. M. Júnior
-  - Daniel Adauto
-  - Carlos Ferraz
+  - Adalberto Sampaio Jr
+  - Nelson Rosa
+  - George Cavalcanti
 
 # Author notes (optional)
 # author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2019-06-05T00:00:00Z'
-doi: 'https://doi.org/10.5753/sbrc_estendido.2019.7771'
+date: '2025-05-15T00:00:00Z'
+doi: 'https://doi.org/10.1145/3672608.3707770'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-05-14T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -79,15 +74,3 @@ url_poster: 'TrendsBot/poster.pdf'
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
----
-
-
-#  {{% callout note %}}
-# Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-# {{% /callout %}}
-
-# {{% callout note %}}
-# Create your slides in Markdown - click the _Slides_ button to check out the example.
-# {{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
