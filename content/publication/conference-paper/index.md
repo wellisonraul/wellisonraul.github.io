@@ -1,25 +1,25 @@
 ---
-title: 'Univariate vs multivariate prediction for containerised applications auto-scaling: a comparative study'
+# title: 'Univariate vs multivariate prediction for containerised applications auto-scaling: a comparative study'
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
-authors:
-  - admin
-  - Adalberto Sampaio Jr
-  - Nelson Rosa
-  - George Cavalcanti
+# # Authors
+# # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# # and it will be replaced with their full name and linked to their profile.
+# authors:
+#   - admin
+#   - Adalberto Sampaio Jr
+#   - Nelson Rosa
+#   - George Cavalcanti
 
-# Author notes (optional)
-# author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
+# # Author notes (optional)
+# # author_notes:
+# #  - 'Equal contribution'
+# #  - 'Equal contribution'
 
-date: '2025-05-15T00:00:00Z'
-doi: 'https://doi.org/10.1145/3672608.3707770'
+# date: '2025-05-15T00:00:00Z'
+# doi: 'https://doi.org/10.1145/3672608.3707770'
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2025-05-14T00:00:00Z'
+# # Schedule page publish date (NOT publication's date).
+# publishDate: '2025-05-14T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
