@@ -1,4 +1,52 @@
 ---
+title: 'Univariate vs multivariate prediction for containerised applications auto-scaling: a comparative study'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+  - admin
+  - Adalberto Sampaio Jr
+  - Nelson Rosa
+  - George Cavalcanti
+
+# Author notes (optional)
+# author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
+
+date: '2025-05-15T00:00:00Z'
+doi: 'https://doi.org/10.1145/3672608.3707770'
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2025-05-14T00:00:00Z'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ['paper-conference']
+
+
+# Publication name and optional abbreviated publication name.
+publication: In *Anais Estendidos do XXXVII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos*
+publication_short: In *SRBC*
+
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags:
+featured: false
+
+# links:
+# - name: Custom Link
+# url: http://example.org
+
+url_pdf: 'https://sol.sbc.org.br/index.php/sbrc_estendido/article/view/7771/8273'
+url_code: 'https://github.com/wellisonraul/TrendsBotGoLang'
+url_poster: 'TrendsBot/poster.pdf'
+
 title: 'TrendsBot: Verificando a veracidade das mensagens do Telegram utilizando Data Stream'
 
 # Authors
