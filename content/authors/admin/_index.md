@@ -17,19 +17,19 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Computer Science
+role: Researcher at CISSA/CESAR
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universidade Federal de Pernambuco
-    url: https://www.ufpe.br/
+  - name: Integrated Center for Security in Advanced Systems
+    url: https://www.cesar.org.br/web/english/cissa
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - ML for Systems
+  - Cyber Threat Intelligence
   - Artificial Intelligence
   - Distributed Systems
   - Cloud Computing
@@ -37,9 +37,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science, In Progress
+    - course: PhD in Computer Science
       institution: Universidade Federal de Pernambuco
-      year:
+      year: 2024
     - course: MSc in Computer Science
       institution: Universidade Federal de Pernambuco
       year: 2020
@@ -121,5 +121,6 @@ social:
 highlight_name: true
 ---
 
-I am a third-year PhD student in Computer Science at [UFPE](https://www.ufpe.br/), advised by Prof. [Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and Prof. [George Cavalcanti](https://darmiton.com/). I am affiliated with the [GFADS Research Group](https://sites.google.com/a/cin.ufpe.br/gfads/) at the [Centro de Infórmatica](https://portal.cin.ufpe.br/).  I am broadly interested in distributed systems and machine learning areas. My current research focuses on developing proactive self-adaptive systems using time series forecasting to maintain/improve microservices' performance.  I am also spending a semester as a visiting student at the [University of British Columbia](https://www.ubc.ca/), where I am researching at the [Systopia Lab]((https://systopia.cs.ubc.ca/)) advised by Prof. [Thomas Pasquier](https://tfjmp.org/). 
-{style="text-align: justify;"}
+I am a DevOps Engineer and Researcher with over 8 years of experience in distributed systems, cloud-native applications, and AI-driven automation. I hold a Ph.D. and M.Sc. in Computer Science from at [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/), where my doctoral research focused on developing proactive self-adaptive systems for microservices performance. This included a visiting student period at the [University of British Columbia](https://www.ubc.ca/) (UBC).
+
+Currently, I am a Researcher at [CISSA](https://www.cesar.org.br/web/english/cissa), contributing to cybersecurity solutions through research in distributed systems and artificial intelligence, particularly Cyber Threat Intelligence (CTI). I am also a Professor at CESAR School and Instituto Infnet, teaching topics like network architecture and DevOps. I am passionate about bridging the gap between academic research and practical, impactful solutions.
