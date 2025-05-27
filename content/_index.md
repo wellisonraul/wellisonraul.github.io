@@ -72,12 +72,13 @@ sections:
           date_end: '2024-02-29'
           description: |2-
               The current project aims to design and develop a new solution for bottleneck detection in microservices, considering their inherent dynamism in production environments. </br></br><b>Transferable skills</b>&#58; Microservices, Root Cause and Anomaly Detection, Graph Neural Networks
+
         - title: Ph.D. and MS.c. fellow
           company: UFPE
           company_url: 'https://www.ufpe.br/'
           location: Recife, Brazil
           date_start: '2018-03-01'
-          date_end: ''
+          date_end: '2024-08-28'
           description: |2-
               During my MS.c., I created ML-Adapt, a proactive system that uses machine learning to forecast CPU for auto-scaling microservices. ML-Adapt notably reduced application response time by 20% compared to HPA in best-case scenarios. However, its effectiveness relied heavily on forecast accuracy. My Ph.D. research focuses on enhancing this forecast component. I introduced the Multiple Predictors System (MPS) approach, demonstrating its superior accuracy (35-75% improvement in the best results) in 81.5% of experiments compared to the previous approach. </br></br><b>Transferable skills</b>&#58; Machine Learning, Microservices, Time series forecasting, Auto-scaling, Self-adaptive Systems, Kubernetes, Python, and Java
         - title: Undergraduate research in runtime verification of service compositions
