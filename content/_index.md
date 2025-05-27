@@ -128,12 +128,12 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: wrms@cin.ufpe.br
+      email: wrms@cesar.org.br
       address:
-        street: 1235, Av. Prof. Moraes Rego
+        street: 810, Av. Alfredo Lisboa 
         city: Recife
         region: PE
-        postcode: '50670-901'
+        postcode: '50030-150'
         country: Brazil
         country_code: BR
       # Automatically link email and phone or display as text?
