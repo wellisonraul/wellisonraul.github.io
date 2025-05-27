@@ -55,12 +55,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Researcher Assistant
+          company: CISSA/CESSA
+          company_url: 'https://www.cesar.org.br/web/english/cissa'
+          location: Recife, Brazil
+          date_start: '2025-01-03'
+          date_end: ''
+          description: |2-
+              The project focus on enhancing cybersecurity solutions through research in distributed systems and artificial intelligence. Topics include but are not limited to attack detection and prevention analysis, threat mining, forensic analysis, incident response, and correlations of anomalous behaviors in networks and systems. </br></br><b>Transferable skills</b>&#58; Research Support, Publishing, Teaching, Subject Recruitment 
+            
         - title: Visiting International Research Student at Systopia Lab
           company: UBC - Systopia Lab
           company_url: 'https://systopia.cs.ubc.ca/'
           location: Vancouver, Canada
           date_start: '2023-09-01'
-          date_end: ''
+          date_end: '2024-02-29'
           description: |2-
               The current project aims to design and develop a new solution for bottleneck detection in microservices, considering their inherent dynamism in production environments. </br></br><b>Transferable skills</b>&#58; Microservices, Root Cause and Anomaly Detection, Graph Neural Networks
         - title: Ph.D. and MS.c. fellow
