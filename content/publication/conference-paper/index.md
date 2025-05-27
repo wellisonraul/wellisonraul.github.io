@@ -1,12 +1,7 @@
 ---
-# Second Publication
-
-
 title: 'TrendsBot: Verificando a veracidade das mensagens do Telegram utilizando Data Stream'
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
   - Marcus Xavier
@@ -15,15 +10,9 @@ authors:
   - Daniel Adauto
   - Carlos Ferraz
 
-# Author notes (optional)
-# author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
-
 date: '2019-06-05T00:00:00Z'
 doi: 'https://doi.org/10.5753/sbrc_estendido.2019.7771'
 
-# Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
