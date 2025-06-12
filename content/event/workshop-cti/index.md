@@ -1,24 +1,24 @@
 ---
-title: Digital Security and Future Careers panel
+title: Applying Unsupervised AI for Proactive Cybersecurity Defense
 
-event: Spoke on the "Digital Security and Future Careers" panel at the Red Hat Academy launch at CESAR School
-event_url: https://www.cesar.school/
+event: 1st CTI Workshop, hosted by the CISSA Cyber Threat Intelligence Team at CESAR 
+event_url: https://www.cesar.org.br/web/english/cissa
 
-location: CESAR School
+location: CESAR Moinho - Risoflora
 address:
-  street: Avenida, Cais do Apolo, 77 
+  street: Av. Alfredo Lisboa, 810 - 6o andar
   city: Recife
   region: PE
-  postcode: '50030-220'
+  postcode: 50030-150
   country: Brazil
 
-summary: At the Red Hat Academy launch at CESAR School, I spoke on a panel about the future of cybersecurity. As a CISSA researcher, my key message was that the best way to develop skilled professionals is by combining academic research with hands-on training. The panel also debated major industry trends, the growing role of AI, and today's biggest security challenges.
-abstract: This presentation addresses the critical demand for skilled professionals in the cybersecurity industry. It argues that the talent gap can be closed by integrating theoretical academic research with practical, applied training. This approach ensures that new professionals are equipped to handle complex, real-world security threats. The analysis is supplemented by a discussion of how emerging technologies like Artificial Intelligence are shaping current industry trends and challenges.
+summary: I recently spoke at the first-ever CTI Workshop hosted by the CISSA team at CESAR. My presentation focused on how unsupervised AI can be used to create proactive cyber defenses here in Brazil. The event was a deep dive into our country's key security challenges, with expert sessions on protecting critical infrastructure, the impact of the LGPD, innovative national CTI projects, and strategies against advanced cyber threats (APTs). The workshop truly highlighted a collective commitment to strengthening Brazil's cybersecurity through collaboration and shared knowledge.
+abstract: This presentation addresses the need for advanced defense mechanisms against sophisticated cyber threats in Brazil. It proposes the application of unsupervised Artificial Intelligence (AI) as a key strategy to enhance national protection capabilities, arguing that these models can identify novel threats without prior data, enabling more resilient security postures. This topic was situated within a broader agenda focused on Brazil's security landscape, including the protection of critical infrastructure, compliance with the LGPD, and strategies for combating Advanced Persistent Threats (APTs).
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-06-04T14:00:00Z'
-date_end: '2025-06-04T18:00:00Z'
+date: '2025-05-22T14:00:00Z'
+date_end: '2025-05-22T18:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -30,10 +30,10 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Cesar School**](https://media.licdn.com/dms/image/v2/D4D22AQH9F1FwY0TCBw/feedshare-shrink_2048_1536/B4DZdB3KWsGYAo-/0/1749156670685?e=1752710400&v=beta&t=tjnMESyLqDWInerX9A4k-N0uoKnwhyhG_qqcpIKPlOA)'
+  caption: 'Image credit: [**Cesar Moinho**](https://www.linkedin.com/posts/wellison-santos_cybersecurity-cti-threatintelligence-activity-7331681291676848151-tEA2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACBMtRoBAy_R1aYLA7bcG2rYzW_cY-TyE0I)'
   focal_point: Right
 
 #links:
