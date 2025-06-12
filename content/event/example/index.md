@@ -1,24 +1,24 @@
 ---
-title: Example Talk
+title: Digital Security and Future Careers panel
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Spoke on the "Digital Security and Future Careers" panel at the Red Hat Academy launch at CESAR School
+event_url: https://www.cesar.school/
 
-location: Hugo Blox Builder HQ
+location: CESAR School
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Avenida, Cais do Apolo, 77 
+  city: Recife
+  region: PE
+  postcode: '50030-220'
+  country: Brazil
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: At the Red Hat Academy launch at CESAR School, I spoke on a panel about the future of cybersecurity. As a CISSA researcher, my key message was that the best way to develop skilled professionals is by combining academic research with hands-on training. The panel also debated major industry trends, the growing role of AI, and today's biggest security challenges.
+abstract: This presentation addresses the critical demand for skilled professionals in the cybersecurity industry. It argues that the talent gap can be closed by integrating theoretical academic research with practical, applied training. This approach ensures that new professionals are equipped to handle complex, real-world security threats. The analysis is supplemented by a discussion of how emerging technologies like Artificial Intelligence are shaping current industry trends and challenges.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-06-04T14:00:00Z'
+date_end: '2025-06-04T18:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://media.licdn.com/dms/image/v2/D4D22AQH9F1FwY0TCBw/feedshare-shrink_2048_1536/B4DZdB3KWsGYAo-/0/1749156670685?e=1752710400&v=beta&t=tjnMESyLqDWInerX9A4k-N0uoKnwhyhG_qqcpIKPlOA)'
   focal_point: Right
 
 #links:
