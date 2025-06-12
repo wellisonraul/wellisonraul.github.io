@@ -202,9 +202,7 @@ awards:
 
 ## About Me
 
-I am a researcher and professor who is passionate about building bridges between cutting-edge academic research and high-impact, practical solutions for the industry. My career is dedicated to exploring the frontiers of distributed systems, artificial intelligence, cybersecurity and automation.
-
-My academic foundation was built at the [Center for Informatics (CIn)](https://portal.cin.ufpe.br/) of the [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/), one of Brazil's most prestigious institutions, where I earned my Ph.D. (2024) and M.Sc. (2020) in Computer Science. During my PhD studies, I also had the honor of being a visiting research student at the [University of British Columbia](https://www.ubc.ca/) (UBC) in Canada. 
+I am a researcher and professor who is passionate about building bridges between cutting-edge academic research and high-impact, practical solutions for the industry. My career is dedicated to exploring the frontiers of distributed systems, artificial intelligence, cybersecurity and automation. My academic foundation was built at the [Center for Informatics (CIn)](https://portal.cin.ufpe.br/) of the [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/), one of Brazil's most prestigious institutions, where I earned my Ph.D. (2024) and M.Sc. (2020) in Computer Science. During my PhD studies, I also had the honor of being a visiting research student at the [University of British Columbia](https://www.ubc.ca/) (UBC) in Canada. 
 
 Today, my career is built on two fundamental pillars:
 
