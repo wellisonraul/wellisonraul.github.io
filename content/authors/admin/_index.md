@@ -53,19 +53,19 @@ interests:
  - Cloud Computing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Artificial Intelligence and Distributed Systems
+    institution: Universidade Federal de Pernambuco
     date_start: 2020-03-01
     date_end: 2024-08-26
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Nelson Rosa](https://www.cin.ufpe.br/~nsr/). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://repositorio.ufpe.br/handle/123456789/58556'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Artificial Intelligence and Distributed System
+    institution: Universidade Federal de Pernambuco
+    date_start: 2018-03-01
+    date_end: 2024-02-28
     summary: |
       GPA: 3.8/4.0
 
@@ -73,10 +73,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc in Computer Science
+    institution: Universidade do Estado do Rio Grande do Norte
+    date_start: 2013-09-01
+    date_end: 2017-02-28
     summary: |
       GPA: 3.4/4.0
       
@@ -85,28 +85,46 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Professor
+    company_name: Instituto Infnet
+    company_url: 'https://www.infnet.edu.br/infnet/home/'
+    company_logo: 'https://www.infnet.edu.br/infnet/wp-content/uploads/sites/18/2021/10/infnet-30-horizontal-padrao@300x-8-2048x529.png'
+    date_start: 2025-02-10
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Instructor for the DevOps course in the Software Engineering postgraduate program at MIT, with a focus on the .NET platform. Also served as Instructor for the LPIC-1 Fundamentals and Administration and LPIC-1 Advanced Administration courses in the Network Engineering postgraduate program at MIT.
+
+  - position: Professor
+    company_name: CESAR School
+    company_url: 'https://www.cesar.school/'
+    company_logo: 'https://www.cesar.school/wp-content/themes/alfama/assets/img/marca.svg'
+    date_start: 2025-02-10
+    date_end: ''
+    summary: |2-
+      I'm a Professor of Network Architecture, teaching in Stricto Sensu (Undergraduate, Master's and PhD programs). 
+
+      I focus on developing the next generation of professionals and researchers in exciting fields like Cybersecurity, Artificial Intelligence, Adaptive Systems, and Cloud Computing.
+  - position: Researcher
+    company_name: CISSA/CESAR
+    company_url: 'https://www.cesar.org.br/web/english/cissa'
+    company_logo: 'https://www.cesar.org.br/_next/image?url=%2Flogo.png&w=128&q=75'
+    date_start: 2025-01-13
+    date_end: ''
+    summary: |2-
+      Research Assistant at CISSA (Integrated Center for Security in Advanced Systems) at CESAR, where I focus on enhancing cybersecurity solutions through research in distributed systems and artificial intelligence.
+      
+      Topics include but are not limited to attack detection and prevention analysis, threat mining, forensic analysis, incident response, and correlations of anomalous behaviors in networks and systems.
+      - Focused on cybersecurity, aiming to find solutions that ensure the security and integrity of people’s interactions in the digital environment.
+      - Empowering organizations to identify, understand, prevent, and respond more effectively to known and unknown threats.
+
+  - position: Developer II
+    company_name: SENAI Innovation Institute for Information and Communication Technologies
+    company_url: 'https://www.pe.senai.br/isi-tics/'
+    company_logo: 'https://www.pe.senai.br/wp-content/uploads/2024/08/cropped-Marcas-Sistema-FIEPE-SENAI_colorida.png'
+    date_start: 2024-04-03
+    date_end: 2025-01-10
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      I support multiple teams by automating infrastructure management and streamlining processes. My expertise includes creating scalable cloud environments (AWS), containerisation (Docker), and workflow automation. I also configure services, manage databases, set up VPNs, and work with identity providers. Additionally, I utilise CI/CD tools (Jenkins, GitHub Actions) for efficient deployments and leverage Python for automation.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -125,6 +143,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -160,6 +179,7 @@ awards:
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
