@@ -42,4 +42,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1145/3672608.3707770
+
+
+url_pdf: https://doi.org/10.1145/3672608.3707770
+url_code: 'https://github.com/gfads/univariate-multivariate-prediction'
+url_dataset: 'https://github.com/gfads/univariate-multivariate-prediction/tree/main/database'
 ---

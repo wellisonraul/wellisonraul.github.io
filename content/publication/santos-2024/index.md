@@ -41,4 +41,9 @@ tags:
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S095219762301833X
+
+url_pdf: https://www.sciencedirect.com/science/article/pii/S095219762301833X
+url_code: 'https://github.com/gfads/mps-methodology'
+url_dataset: 'https://cinufpe-my.sharepoint.com/personal/wrms_cin_ufpe_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fwrms%5Fcin%5Fufpe%5Fbr%2FDocuments%2Fmodels%2Ezip&parent=%2Fpersonal%2Fwrms%5Fcin%5Fufpe%5Fbr%2FDocuments&ga=1'
+
 ---
