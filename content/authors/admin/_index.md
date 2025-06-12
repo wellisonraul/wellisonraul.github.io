@@ -38,13 +38,13 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/wellisonraul
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/wellison-santos/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=sIJfHH0AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-3023-7055
 
 interests:
  - Cyber Threat Intelligence
@@ -61,7 +61,7 @@ education:
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://repositorio.ufpe.br/handle/123456789/58556'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -145,10 +145,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
   - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -184,4 +182,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a DevOps Engineer and Researcher with over 8 years of experience in distributed systems, cloud-native applications, and AI-driven automation. I hold a Ph.D. and M.Sc. in Computer Science from at [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/), where my doctoral research focused on developing proactive self-adaptive systems for microservices performance. This included a visiting student period at the [University of British Columbia](https://www.ubc.ca/) (UBC).
+
+Currently, I am a Researcher at [CISSA](https://www.cesar.org.br/web/english/cissa), contributing to cybersecurity solutions through research in distributed systems and artificial intelligence, particularly Cyber Threat Intelligence (CTI). I am also a Professor at CESAR School and Instituto Infnet, teaching topics like network architecture and DevOps. I am passionate about bridging the gap between academic research and practical, impactful solutions.
