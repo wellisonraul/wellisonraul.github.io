@@ -6,7 +6,7 @@ authors:
 - Adalberto R. Sampaio
 - Nelson S. Rosa
 - George D. C. Cavalcanti
-date: '2025-01-01'
+date: '2025-05-14'
 publishDate: '2025-06-12T12:42:09.452551Z'
 publication_types:
 - paper-conference

@@ -5,7 +5,7 @@ authors:
 - Adalberto R. Sampaio Jr.
 - Nelson S. Rosa
 - George D. C. Cavalcanti
-date: '2024-01-01'
+date: '2024-03-01'
 publishDate: '2025-06-12T12:42:09.444303Z'
 publication_types:
 - article-journal
