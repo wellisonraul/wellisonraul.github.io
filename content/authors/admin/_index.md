@@ -53,7 +53,7 @@ interests:
  - Cloud Computing
 
 education:
-  - area: PhD Artificial Intelligence and Distributed Systems
+  - area: PhD AI and Distributed Systems
     institution: Universidade Federal de Pernambuco
     date_start: 2020-03-01
     date_end: 2024-08-26
@@ -62,7 +62,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://repositorio.ufpe.br/handle/123456789/58556'
-  - area: MSc Artificial Intelligence and Distributed System
+  - area: MSc AI and Distributed System
     institution: Universidade Federal de Pernambuco
     date_start: 2018-03-01
     date_end: 2024-02-28
