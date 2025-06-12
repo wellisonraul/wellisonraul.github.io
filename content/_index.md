@@ -35,11 +35,20 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research program is dedicated to building the next generation of intelligent, autonomous, and resilient cybersecurity systems. I focus on shifting security from a reactive to a proactive paradigm, leveraging Artificial Intelligence and Distributed Systems principles to create defenses that can anticipate, detect, and respond to threats with minimal human intervention. My work aims to address the speed and scale of modern cyber-attacks by embedding intelligence directly into our digital infrastructure.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My research interests focus on Cybersecurity, Artificial Intelligence, and Distributed Systems. Topics include but are not limited to:
+
+        - Cyber Threat Intelligence (CTI)
+        - AI & Machine Learning
+        - Autonomous Security & Incident Response
+        - DevSecOps & CI/CD Security
+        - Cloud-Native & Container Security
+        - Self-Healing & Resilient Systems
+        - Proactive Vulnerability Management
+        - Secure Software Development Lifecycle
+
+        I am actively seeking motivated M.Sc. and Ph.D. students to tackle challenges in AI-driven security, autonomous defense, and secure software development. If you are passionate about building the future of cybersecurity, please get in touch. I am also always open to new research collaborations with academic and industry partners.
     design:
       columns: '1'
   - block: collection

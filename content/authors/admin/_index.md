@@ -33,10 +33,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:wrms@cesar.org.br'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/wellisonraul
   - icon: brands/linkedin
@@ -202,6 +202,15 @@ awards:
 
 ## About Me
 
-I am a DevOps Engineer and Researcher with over 8 years of experience in distributed systems, cloud-native applications, and AI-driven automation. I hold a Ph.D. and M.Sc. in Computer Science from at [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/), where my doctoral research focused on developing proactive self-adaptive systems for microservices performance. This included a visiting student period at the [University of British Columbia](https://www.ubc.ca/) (UBC).
+I am a researcher and professor who is passionate about building bridges between cutting-edge academic research and high-impact, practical solutions for the industry. My career is dedicated to exploring the frontiers of distributed systems, artificial intelligence, cybersecurity and automation.
 
-Currently, I am a Researcher at [CISSA](https://www.cesar.org.br/web/english/cissa), contributing to cybersecurity solutions through research in distributed systems and artificial intelligence, particularly Cyber Threat Intelligence (CTI). I am also a Professor at CESAR School and Instituto Infnet, teaching topics like network architecture and DevOps. I am passionate about bridging the gap between academic research and practical, impactful solutions.
+My academic foundation was built at the [Center for Informatics (CIn)](https://portal.cin.ufpe.br/) of the [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/), one of Brazil's most prestigious institutions, where I earned my Ph.D. (2024) and M.Sc. (2020) in Computer Science. During my PhD studies, I also had the honor of being a visiting research student at the [University of British Columbia](https://www.ubc.ca/) (UBC) in Canada. 
+
+Today, my career is built on two fundamental pillars:
+
+- Applied Research: As a Researcher at CISSA/CESAR, the EMBRAPII competence center for cybersecurity, I apply my expertise to develop innovative solutions in Cyber Threat Intelligence (CTI) to protect critical infrastructure in Brazil.
+- Educating Future Talent: As a Professor at CESAR School and at Instituto Infnet, I have the privilege of teaching and mentoring the next generation of tech leaders on topics such as network architecture, DevOps, and cloud computing.
+
+#I am Researcher with over 8 years of experience in distributed systems, cloud-native applications, and AI-driven automation. I hold a Ph.D. and M.Sc. in #Computer Science from at [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/), where my PhD and MsC research focused on developing proactive #self-adaptive systems for microservices performance. This included a visiting student period at the [University of British Columbia](https://www.ubc.ca/) (UBC).
+
+#Currently, I am a Researcher at [CISSA](https://www.cesar.org.br/web/english/cissa), contributing to cybersecurity solutions through research in distributed #systems and artificial intelligence, particularly Cyber Threat Intelligence (CTI). I am also a Professor at CESAR School and Instituto Infnet, teaching topics #like network architecture and DevOps. I am passionate about bridging the gap between academic research and practical, impactful solutions.
