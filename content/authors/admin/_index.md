@@ -210,7 +210,3 @@ Today, my career is built on two fundamental pillars:
 
 - Applied Research: As a Researcher at CISSA/CESAR, the EMBRAPII competence center for cybersecurity, I apply my expertise to develop innovative solutions in Cyber Threat Intelligence (CTI) to protect critical infrastructure in Brazil.
 - Educating Future Talent: As a Professor at CESAR School and at Instituto Infnet, I have the privilege of teaching and mentoring the next generation of tech leaders on topics such as network architecture, DevOps, and cloud computing.
-
-#I am Researcher with over 8 years of experience in distributed systems, cloud-native applications, and AI-driven automation. I hold a Ph.D. and M.Sc. in #Computer Science from at [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/), where my PhD and MsC research focused on developing proactive #self-adaptive systems for microservices performance. This included a visiting student period at the [University of British Columbia](https://www.ubc.ca/) (UBC).
-
-#Currently, I am a Researcher at [CISSA](https://www.cesar.org.br/web/english/cissa), contributing to cybersecurity solutions through research in distributed #systems and artificial intelligence, particularly Cyber Threat Intelligence (CTI). I am also a Professor at CESAR School and Instituto Infnet, teaching topics #like network architecture and DevOps. I am passionate about bridging the gap between academic research and practical, impactful solutions.
