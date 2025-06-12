@@ -39,9 +39,14 @@ tags:
 - multivariate forecasting
 - deep learning
 - proactive auto-scaling
+
+# Display this page in the Featured widget?
+featured: true
+
 links:
 - name: URL
   url: https://doi.org/10.1145/3672608.3707770
+  
 
 
 url_pdf: https://doi.org/10.1145/3672608.3707770

@@ -38,6 +38,10 @@ tags:
 - Dynamic selection
 - Static combination
 - Microservices
+
+# Display this page in the Featured widget?
+featured: true
+
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S095219762301833X
