@@ -35,6 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
+
+        <p style="text-align: justify;">
+
         My research program is dedicated to building the next generation of intelligent, autonomous, and resilient cybersecurity systems. I focus on shifting security from a reactive to a proactive paradigm, leveraging Artificial Intelligence and Distributed Systems principles to create defenses that can anticipate, detect, and respond to threats with minimal human intervention. My work aims to address the speed and scale of modern cyber-attacks by embedding intelligence directly into our digital infrastructure.
 
         My research interests focus on Cybersecurity, Artificial Intelligence, and Distributed Systems. Topics include but are not limited to:
@@ -49,6 +52,8 @@ sections:
         - Secure Software Development Lifecycle
 
         I am actively seeking motivated M.Sc. and Ph.D. students to tackle challenges in AI-driven security, autonomous defense, and secure software development. If you are passionate about building the future of cybersecurity, please get in touch. I am also always open to new research collaborations with academic and industry partners.
+        
+        </p>
     design:
       columns: '1'
   - block: collection
