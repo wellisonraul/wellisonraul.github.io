@@ -58,32 +58,32 @@ education:
     date_start: 2020-03-01
     date_end: 2024-08-26
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Nelson Rosa](https://www.cin.ufpe.br/~nsr/). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Proactive adaptation of microservice-based applications. Supervised by [Prof Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and [George Cavalcanti](https://darmiton.com/). Published papers at one Springer journal, one Elsevier journal and one IEEE conference.
     button:
       text: 'Read Thesis'
       url: 'https://repositorio.ufpe.br/handle/123456789/58556'
+      
   - area: MSc AI and Distributed System
     institution: Universidade Federal de Pernambuco
     date_start: 2018-03-01
     date_end: 2024-02-28
     summary: |
-      GPA: 3.8/4.0
+      Thesis on Adaptation of microservice-based applications using machine learning.  Supervised by [Prof Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and [George Cavalcanti](https://darmiton.com/). Published papers at one SBRC conference.
+    button:
+    button:
+      text: 'Read Dissertation (Portuguese)'
+      url: 'https://repositorio.ufpe.br/handle/123456789/37651'
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc in Computer Science
     institution: Universidade do Estado do Rio Grande do Norte
     date_start: 2013-09-01
     date_end: 2017-02-28
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Summa Cum Laude Graduate (IRA/GPA: 9.2/10)
+      Research & Development: 
+        - Developed augmented reality games for motor coordination in children; 
+        - Implemented and monitored service compositions in dynamic business environments, focusing on runtime verification with formal techniques.
+      Teaching Assistant: Calculation for Computing, Physics, and Numerical Calculation.
 work:
   - position: Professor
     company_name: Instituto Infnet
@@ -128,49 +128,50 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+#skills:
+#  - name: Technical Skills
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: code-bracket
+#      - name: Data Science
+#        description: ''
+#        percent: 100
+#        icon: chart-bar
+#      - name: SQL
+#        description: ''
+#        percent: 40
+#        icon: circle-stack
 
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Hiking
+#        description: ''
+#        percent: 60
+#        icon: person-simple-walk
+#      - name: Cats
+#        description: ''
+#        percent: 100
+#        icon: cat
+#      - name: Photography
+#        description: ''
+#        percent: 80
+#        icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Portuguese
-    percent: 100
+#languages:
+#  - name: English
+#    percent: 100
+#  - name: Portuguese
+#    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
