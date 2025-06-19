@@ -210,7 +210,7 @@ awards:
     certificate_url: https://www.datacamp.com
     date: '2017-02-28'
     awarder: Universidade do Estado do Rio Grande do Norte
-    icon: 'custom/cin'
+    icon: 'cin'
     summary: |
       Awarded to the top-ranking student in the undergraduate Computer Science program, recognizing exceptional academic performance throughout my studies. 
 ---
