@@ -58,7 +58,7 @@ education:
     date_start: 2020-03-01
     date_end: 2024-08-26
     summary: |
-      Thesis on Proactive adaptation of microservice-based applications. Supervised by [Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and [George Cavalcanti](https://darmiton.com/). Published papers at one Springer journal, one Elsevier journal and one IEEE conference.
+      Thesis on Proactive adaptation of microservice-based applications. Supervised by [Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and [George Cavalcanti](https://darmiton.com/). Published papers at one Springer journal, one Elsevier journal and one IEEE conference. The computer science program ranks among the top seven most esteemed programs in Brazil
     button:
       text: 'Read Thesis'
       url: 'https://repositorio.ufpe.br/handle/123456789/58556'
@@ -68,7 +68,7 @@ education:
     date_start: 2018-03-01
     date_end: 2024-02-28
     summary: |
-      Thesis on Adaptation of microservice-based applications using machine learning.  Supervised by [Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and [George Cavalcanti](https://darmiton.com/). Published papers at one SBRC conference.
+      Thesis on Adaptation of microservice-based applications using machine learning. Supervised by [Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and [George Cavalcanti](https://darmiton.com/). Published papers at one SBRC conference. The computer science program ranks among the top seven most esteemed programs in Brazil
     button:
     button:
       text: 'Read Dissertation (Portuguese)'
@@ -198,7 +198,7 @@ awards:
     certificate_url: https://www.datacamp.com
     date: '2017-02-28'
     awarder: Universidade do Estado do Rio Grande do Norte
-    icon: custom/cin-ufpe
+    icon: ../custom/cin-ufpe
     summary: |
       Awarded to the top-ranking student in the undergraduate Computer Science program, recognizing exceptional academic performance throughout my studies. 
 ---
