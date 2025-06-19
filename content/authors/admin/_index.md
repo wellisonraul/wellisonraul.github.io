@@ -58,7 +58,7 @@ education:
     date_start: 2020-03-01
     date_end: 2024-08-26
     summary: |
-      Thesis on Proactive adaptation of microservice-based applications. Supervised by [Prof Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and [George Cavalcanti](https://darmiton.com/). Published papers at one Springer journal, one Elsevier journal and one IEEE conference.
+      Thesis on Proactive adaptation of microservice-based applications. Supervised by [Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and [George Cavalcanti](https://darmiton.com/). Published papers at one Springer journal, one Elsevier journal and one IEEE conference.
     button:
       text: 'Read Thesis'
       url: 'https://repositorio.ufpe.br/handle/123456789/58556'
@@ -68,7 +68,7 @@ education:
     date_start: 2018-03-01
     date_end: 2024-02-28
     summary: |
-      Thesis on Adaptation of microservice-based applications using machine learning.  Supervised by [Prof Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and [George Cavalcanti](https://darmiton.com/). Published papers at one SBRC conference.
+      Thesis on Adaptation of microservice-based applications using machine learning.  Supervised by [Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and [George Cavalcanti](https://darmiton.com/). Published papers at one SBRC conference.
     button:
     button:
       text: 'Read Dissertation (Portuguese)'
@@ -80,9 +80,11 @@ education:
     date_end: 2017-02-28
     summary: |
       Summa Cum Laude Graduate (IRA/GPA: 9.2/10)
+
       Research & Development: 
         - Developed augmented reality games for motor coordination in children; 
         - Implemented and monitored service compositions in dynamic business environments, focusing on runtime verification with formal techniques.
+        
       Teaching Assistant: Calculation for Computing, Physics, and Numerical Calculation.
 work:
   - position: Professor
@@ -191,14 +193,14 @@ awards:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+  - title: Summa Cum Laude Undergraduate Computer Science program
+    url: https://portal.uern.br/
     certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
+    date: '2017-02-28'
+    awarder: Universidade do Estado do Rio Grande do Norte
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Awarded to the top-ranking student in the undergraduate Computer Science program, recognizing exceptional academic performance throughout my studies. 
 ---
 
 ## About Me
