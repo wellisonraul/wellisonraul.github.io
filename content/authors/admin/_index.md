@@ -183,22 +183,22 @@ awards:
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 
-  - title: Blockchain Fundamentals
+  - title: Honorable Mention
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
+    certificate_url: uploads/sbrc_mention_2019_paper.pdf
+    date: '2019-05-10'
     awarder: edX
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      I Received an honorable mention at the selective Brazilian Symposium on Computer Networks and Distributed Systems (SBRC) 2019 for my paper on TrendsBot. This work explores the use of data stream processing to verify the veracity of Telegram messages, contributing to the fight against misinformation. The recognition highlights the paper's originality and potential impact in the field of real-time data analysis and misinformation detection.
+
+
   - title: Summa Cum Laude Undergraduate Computer Science program
     url: https://portal.uern.br/
     certificate_url: https://www.datacamp.com
     date: '2017-02-28'
     awarder: Universidade do Estado do Rio Grande do Norte
-    icon: "custom/cin-ufpe"
+    icon: custom/cin-ufpe
     summary: |
       Awarded to the top-ranking student in the undergraduate Computer Science program, recognizing exceptional academic performance throughout my studies. 
 ---
