@@ -190,7 +190,7 @@ awards:
     url: https://www.cesar.school/
     date: '2025-06-06'
     awarder: CESAR School
-    icon: coursera
+    icon: sbrc
     summary: |
       Awarded for excellence in teaching and significant contributions to the Cybersecurity undergraduate course at CESAR School. This recognition highlights a commitment to fostering student engagement.
 
@@ -200,7 +200,7 @@ awards:
     certificate_url: ../uploads/sbrc_mention_2019_paper.pdf
     date: '2019-05-10'
     awarder: SBRC
-    icon: edx
+    icon: sbrc
     summary: |
       I Received an honorable mention at the selective Brazilian Symposium on Computer Networks and Distributed Systems (SBRC) 2019 for my paper on TrendsBot. This work explores the use of data stream processing to verify the veracity of Telegram messages, contributing to the fight against misinformation. The recognition highlights the paper's originality and potential impact in the field of real-time data analysis and misinformation detection.
 
@@ -210,7 +210,7 @@ awards:
     certificate_url: https://www.datacamp.com
     date: '2017-02-28'
     awarder: Universidade do Estado do Rio Grande do Norte
-    icon: "../assets/media/icons/cin.svg"
+    icon: custom/cin
     summary: |
       Awarded to the top-ranking student in the undergraduate Computer Science program, recognizing exceptional academic performance throughout my studies. 
 ---
