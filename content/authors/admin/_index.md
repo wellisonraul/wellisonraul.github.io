@@ -106,6 +106,7 @@ work:
       I'm a Professor of Network Architecture, teaching in Stricto Sensu (Undergraduate, Master's and PhD programs). 
 
       I focus on developing the next generation of professionals and researchers in exciting fields like Cybersecurity, Artificial Intelligence, Adaptive Systems, and Cloud Computing.
+
   - position: Researcher
     company_name: CISSA/CESAR
     company_url: 'https://www.cesar.org.br/web/english/cissa'
@@ -127,6 +128,16 @@ work:
     date_end: 2025-01-10
     summary: |
       I support multiple teams by automating infrastructure management and streamlining processes. My expertise includes creating scalable cloud environments (AWS), containerisation (Docker), and workflow automation. I also configure services, manage databases, set up VPNs, and work with identity providers. Additionally, I utilise CI/CD tools (Jenkins, GitHub Actions) for efficient deployments and leverage Python for automation.
+
+  - position: Researcher Intern 
+    company_name: The University of British Columbia (UBC)
+    company_url: 'https://systopia.cs.ubc.ca/'
+    company_logo: 'https://ires.ubc.ca/files/2019/10/ubc-logo.png'
+    date_start: 2023-09-01
+    date_end: 2024-02-29
+    summary: |
+      I Conducted research as a Visiting International Research Student (VIRS) at the [Systopia Lab](https://systopia.cs.ubc.ca/), focusing on the design and development of novel solutions for bottleneck detection in microservices within dynamic production environments. 
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
