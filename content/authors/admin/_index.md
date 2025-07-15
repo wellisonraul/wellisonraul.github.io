@@ -136,7 +136,7 @@ work:
     date_start: 2023-09-01
     date_end: 2024-02-29
     summary: |
-      I Conducted research as a Visiting International Research Student (VIRS) at the [Systopia Lab](https://systopia.cs.ubc.ca/), focusing on the design and development of novel solutions for bottleneck detection in microservices within dynamic production environments. Applied skills in Root Cause and Anomaly Detection, Microservices, and Graph Neural Networks. Gained hands-on experience with Linux, Kubernetes, and Virtual Machines.
+      I conducted research as a Visiting International Research Student (VIRS) at the [Systopia Lab](https://systopia.cs.ubc.ca/), focusing on the design and development of novel solutions for bottleneck detection in microservices within dynamic production environments. Applied skills in Root Cause and Anomaly Detection, Microservices, and Graph Neural Networks. Gained hands-on experience with Linux, Kubernetes, and Virtual Machines.
 
 
 # Skills

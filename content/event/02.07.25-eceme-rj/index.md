@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Cesar School**](https://media.licdn.com/dms/image/v2/D4D22AQH9F1FwY0TCBw/feedshare-shrink_2048_1536/B4DZdB3KWsGYAo-/0/1749156670685?e=1752710400&v=beta&t=tjnMESyLqDWInerX9A4k-N0uoKnwhyhG_qqcpIKPlOA)'
+  caption: 'Image credit: [**ECEME Instagram**](https://www.instagram.com/eceme_exercito/?hl=pt-br)'
   focal_point: Right
 
 #links:
