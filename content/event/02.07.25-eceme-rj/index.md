@@ -1,5 +1,5 @@
 ---
-title: Cyber Statecraft: Cyber threats in Latin America
+title: Cyber Statecraft - Cyber threats in Latin America
 
 event: Roundtable Discussion at ECEME - RJ
 event_url: https://www.kcl.ac.uk/study/international
