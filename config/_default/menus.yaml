@@ -25,7 +25,3 @@ main:
   - name: Students
     url: students/
     weight: 40
-  
-  - name: Conferences
-    url: conferences/
-    weight: 50
