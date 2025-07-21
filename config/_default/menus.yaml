@@ -13,9 +13,9 @@ main:
   - name: Talks
     url: /#talks
     weight: 12
-  #- name: News
-  #  url: /#news
-  #  weight: 13
+  - name: News
+    url: /#news
+    weight: 13
   - name: Experience
     url: experience/
     weight: 20
@@ -25,3 +25,7 @@ main:
   - name: Students
     url: students/
     weight: 40
+  
+  - name: Conferences
+    url: /#Conferences
+    weight: 13
