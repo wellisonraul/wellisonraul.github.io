@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="container">
+    <article>
+        <h1>{{ .Title }}</h1>
+        <p><strong>Local:</strong> {{ .Params.location }}</p>
+        <p><strong>Datas:</strong> {{ .Params.startDate | dateFormat "02/01/2006" }} - {{ .Params.endDate | dateFormat "02/01/2006" }}</p>
+        <p><strong>Tipo:</strong> {{ .Params.type | title }}</p>
+        {{ if .Params.speaker }}
+            <p><strong>Palestrante:</strong> {{ .Params.speaker }}</p>
+        {{ end }}
+        {{ if .Params.website }}
+            <p><strong>Website:</strong> <a href="{{ .Params.website }}" target="_blank">{{ .Params.website }}</a></p>
+        {{ end }}
+        {{ if .Params.tags }}
+            <p><strong>Tags:</strong>
+            {{ range .Params.tags }}
+                <span>{{ . }}</span>
+            {{ end }}
+            </p>
+        {{ end }}
+
+        <div class="content">
+            {{ .Content }}
+        </div>
+    </article>
+    <p><a href="/conferences">← Voltar para a lista de conferências</a></p>
+</div>
+{{ end }}

@@ -1,0 +1,82 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Content }}</p>
+
+    <div class="filters-section">
+        <h3>Filtrar Conferências</h3>
+        <input type="text" id="searchInput" onkeyup="filterConferences()" placeholder="Buscar por título, localização...">
+
+        <select id="tagFilter" onchange="filterConferences()">
+            <option value="">Todas as Tags</option>
+            {{ $allTags := slice }}
+            {{ range .Site.Taxonomies.tags }}
+                {{ $allTags = $allTags | append .Page.Title }}
+            {{ end }}
+            {{ range $tag := $allTags | uniq | sort }}
+                <option value="{{ $tag }}">{{ $tag }}</option>
+            {{ end }}
+        </select>
+
+        <select id="typeFilter" onchange="filterConferences()">
+            <option value="">Todos os Tipos</option>
+            <option value="online">Online</option>
+            <option value="presencial">Presencial</option>
+        </select>
+    </div>
+
+    <ul id="conferenceList">
+        {{ range .Paginator.Pages }}
+        <li class="conference-item"
+            data-title="{{ .Title }}"
+            data-location="{{ .Params.location }}"
+            data-tags="{{ delimit .Params.tags ", " }}"
+            data-type="{{ .Params.type }}">
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <p><strong>Local:</strong> {{ .Params.location }}</p>
+            <p><strong>Datas:</strong> {{ .Params.startDate | dateFormat "02/01/2006" }} - {{ .Params.endDate | dateFormat "02/01/2006" }}</p>
+            <p><strong>Tipo:</strong> {{ .Params.type | title }}</p>
+            {{ if .Params.tags }}
+                <p><strong>Tags:</strong>
+                {{ range .Params.tags }}
+                    <span>{{ . }}</span>
+                {{ end }}
+                </p>
+            {{ end }}
+            <p>{{ .Summary }}</p>
+        </li>
+        {{ end }}
+    </ul>
+
+    {{ partial "pagination.html" . }}
+</div>
+
+<script>
+    function filterConferences() {
+        const searchInput = document.getElementById('searchInput').value.toLowerCase();
+        const tagFilter = document.getElementById('tagFilter').value.toLowerCase();
+        const typeFilter = document.getElementById('typeFilter').value.toLowerCase();
+        const conferenceList = document.getElementById('conferenceList');
+        const items = conferenceList.getElementsByClassName('conference-item');
+
+        for (let i = 0; i < items.length; i++) {
+            const item = items[i];
+            const title = item.getAttribute('data-title').toLowerCase();
+            const location = item.getAttribute('data-location').toLowerCase();
+            const tags = item.getAttribute('data-tags').toLowerCase();
+            const type = item.getAttribute('data-type').toLowerCase();
+
+            const matchesSearch = title.includes(searchInput) || location.includes(searchInput) || tags.includes(searchInput);
+            const matchesTag = tagFilter === "" || tags.includes(tagFilter);
+            const matchesType = typeFilter === "" || type === typeFilter;
+
+            if (matchesSearch && matchesTag && matchesType) {
+                item.style.display = "";
+            } else {
+                item.style.display = "none";
+            }
+        }
+    }
+</script>
+
+{{ end }}
