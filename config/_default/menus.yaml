@@ -27,5 +27,5 @@ main:
     weight: 40
   
   - name: Conferences
-    url: /conferences
+    url: conferences/
     weight: 50
