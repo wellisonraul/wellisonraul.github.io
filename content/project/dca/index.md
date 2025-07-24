@@ -11,3 +11,5 @@ tags:
 ---
 
 It focuses on detecting complex, hidden behavioral deviations and identifying the root causes of anomalous employee behavior, addressing the limitations of current multi-dimensional analysis methods.
+
+<!--more-->
