@@ -12,12 +12,12 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: With a keen interest in advancing digital security, I actively engage in projects that push the boundaries of Cyber Threat Intelligence. Discover the impactful work I've been involved with at [CISSA](https://www.cesar.org.br/web/english/cissa), shaping the future of threat detection and analysis
       filters:
         folders:
           - project
     design:
       view: article-grid
-      fill_image: false
+      fill_image: true
       columns: 3
 ---
