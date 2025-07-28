@@ -1,7 +1,7 @@
 ---
 title: Identification and Interpretation of Malicious User Behavior and Cybercrime-Related Deviations
 date: 2024-07-01
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://github.com/CESAR-CISSA/Projects/tree/main?tab=readme-ov-file#identification-and-interpretation-of-malicious-user-behavior-and-cybercrime-related-deviations-2024---present
 tags:
   - Anomaly Detection 
   - Cybersecurity
