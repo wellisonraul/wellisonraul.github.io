@@ -1,5 +1,5 @@
 ---
-title: CISSA at SBSeg 2025: Bridging Research, Talent, and Industry
+title: CISSA at SBSeg 2025 - Bridging Research, Talent, and Industry
 
 event: XXV Simpósio Brasileiro de Cibersegurança (SBSeg) 2025
 event_url: https://sbseg2025.ppgia.pucpr.br/
