@@ -33,4 +33,6 @@ abstract: IoT environments face significant security challenges due to their dis
 links:
 - name: URL
   url: https://doi.org/10.1007/s11227-025-07850-2
+
+url_pdf: https://doi.org/10.1007/s11227-025-07850-2
 ---
