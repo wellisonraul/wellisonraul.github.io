@@ -24,7 +24,6 @@ sections:
         
         - Miguel Cabral de Carvalho, 2025.
         - Jaqueline Alexandre da Silva, 2025.
-        - Diogo Rocha de Araujo, 2024.
         - Gabriel Valença Carvalho, 2024.
         - Geilson Nascimento Silva, 2024.
 
