@@ -27,14 +27,18 @@ sections:
         
         - Igor Fugagnoli Baptista do Rêgo, 2026, Advisor.
         - Eduardo Silva dos Santos, 2026, Advisor.
-        - José Edson Carneiro Agra Júnior, 2025, Advisor. 
-        - Gabriel Valença Carvalho, 2024, Co-Advisor.
+        - José Edson Carneiro Agra Júnior, 2025, Advisor.
         - Geilson Nascimento Silva, 2024, Co-Advisor.
 
         **Undergraduate Research**
 
         - Pedro Henrique Guimarães Liberal, 2025, Advisor.
         - João Ricardo Leitão Barros, Co-Advisor.
+
+        **Former Students**
+        - Gabriel Valença Carvalho, 2026, Co-Advisor. (UX/UI Designer @ CESAR[https://www.linkedin.com/in/gabrielvcarvalho/])
+        - João Ricardo Leitão Barros, Co-Advisor.
+      
 
     design:
       columns: '1'
