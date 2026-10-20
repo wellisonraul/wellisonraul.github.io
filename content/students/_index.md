@@ -35,10 +35,10 @@ sections:
         - Pedro Henrique Guimarães Liberal, 2025, Advisor.
 
         **Former Students**
-        
-        - Gabriel Valença Carvalho, [MSc], oct/2026, Co-Advisor. (UX/UI Designer @ [CESAR](https://www.linkedin.com/in/gabrielvcarvalho/))
+
+        - Gabriel Valença Carvalho, [MSc], oct/2026, Co-Advisor. ([UX/UI Designer @ CESAR](https://www.linkedin.com/in/gabrielvcarvalho/))
   
-        - João Ricardo Leitão Barros, [BSc], dec/2025, Co-Advisor. (Software Engineer @ [Tron Soluções](https://www.linkedin.com/in/jo%C3%A3o-ricardo-leit%C3%A3o-barros-892096251/))
+        - João Ricardo Leitão Barros, [BSc], dec/2025, Co-Advisor. ([Software Engineer @ Tron Soluções](https://www.linkedin.com/in/jo%C3%A3o-ricardo-leit%C3%A3o-barros-892096251/))
         
       
 
