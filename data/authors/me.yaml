@@ -43,36 +43,30 @@ interests:
  - Cloud Computing
 
 education:
-  - degree: PhD Computer Science
+  - degree: PhD in Computer Science
     institution: Universidade Federal de Pernambuco
     start: 2020-03-01
     end: 2024-08-26
     summary: |
-      Thesis on Proactive adaptation of microservice-based applications. Supervised by [Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and [George Cavalcanti](https://darmiton.com/). Published papers at one Springer journal, one Elsevier journal and one IEEE conference. The computer science program ranks among the top seven most esteemed programs in Brazil.
+      Thesis on proactive adaptation of microservices-based applications.
     button:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
 
-  - degree: MSc AI and Distributed System
+  - degree: MSc in Computer Science
     institution: Universidade Federal de Pernambuco
     date_start: 2018-03-01
     date_end: 2024-02-28
     summary: |
-      Thesis on Adaptation of microservice-based applications using machine learning. Supervised by [Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and [George Cavalcanti](https://darmiton.com/). Published papers at one SBRC conference. The computer science program ranks among the top seven most esteemed programs in Brazil.
-  
+      Thesis on machine-learning-based adaptation of microservices.
+
   - degree: BSc in Computer Science
     institution: Universidade do Estado do Rio Grande do Norte
     date_start: 2013-09-01
     date_end: 2017-02-28
     summary: |
-      Summa Cum Laude Graduate (IRA/GPA: 9.2/10)
-
-      Research & Development: 
-        - Developed augmented reality games for motor coordination in children; 
-        - Implemented and monitored service compositions in dynamic business environments, focusing on runtime verification with formal techniques.
-        
-      Teaching Assistant: Calculation for Computing, Physics, and Numerical Calculation.
+      Summa Cum Laude (GPA: 9.2/10).
 
 experience:
   - role: Assistant Professor

@@ -11,3 +11,7 @@ html {
   background-color: #f8fafc;
   border-radius: 12px;
 }
+
+#experience .w-full:nth-child(2):has(> h2) {
+  display: none;
+}
