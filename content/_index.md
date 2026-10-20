@@ -1,135 +1,169 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: ''
+summary: ''
 date: 2022-10-24
 type: landing
-
-design:
-  # Default section spacing
-  spacing: "6rem"
 
 sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
+      username: me
+      text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
+      headings:
+        about: ''
+        education: ''
+        interests: ''
     design:
-      css_class: dark
+      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
-  - block: markdown
+        gradient_mesh:
+          enable: true
+
+      # Name heading sizing to accommodate long or short names
+      name:
+        size: md # Options: xs, sm, md, lg (default), xl
+
+      # Avatar customization
+      avatar:
+        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: circle # Options: circle (default), square, rounded
+
+  - block: resume-experience
+    id: experience
     content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My research program is dedicated to building the next generation of intelligent, autonomous, and resilient cybersecurity systems. I focus on shifting security from a reactive to a proactive paradigm, leveraging Artificial Intelligence and Distributed Systems principles to create defenses that can anticipate, detect, and respond to threats with minimal human intervention. My work aims to address the speed and scale of modern cyber-attacks by embedding intelligence directly into our digital infrastructure.
-
-        My research interests focus on Cybersecurity, Artificial Intelligence, and Distributed Systems. Topics include but are not limited to:
-
-        - Cyber Threat Intelligence (CTI)
-        - AI & Machine Learning
-        - Autonomous Security & Incident Response
-        - DevSecOps & CI/CD Security
-        - Cloud-Native & Container Security
-        - Self-Healing & Resilient Systems
-        - Proactive Vulnerability Management
-        - Secure Software Development Lifecycle
-
-        I am actively seeking motivated M.Sc. and Ph.D. students to tackle challenges in AI-driven security, autonomous defense, and secure software development. If you are passionate about building the future of cybersecurity, please get in touch. I am also always open to new research collaborations with academic and industry partners.
+      username: me
     design:
-      columns: '1'
+      date_format: 'Jan 2006'
+      is_education_first: false
+      show_education: false
+  
   - block: collection
-    id: papers
+    id: research
     content:
-      title: Featured Publications
+      title: Research
+      text: ''
+      count: 0
       filters:
         folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+          - publications
+        exclude_featured: true
+      archive:
+        enable: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
 
-  - block: collection
-    id: news
+
+  - block: comparison-table
+    id: students
     content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      title: Current Students
+      competitors:
+        - name: Degree
+        - name: Role
+        - name: Since
+      rows:
+        - feature: Ailton da Silva Cordeiro
+          note: 'CESAR School'
+          values: ["PhD", "Advisor", "2026"]
+
+        - feature: Damião de Oliveira Melo Neto
+          note: 'CESAR School'
+          values: ["PhD", "Advisor", "2026"]
+
+        - feature: Luis Eduardo Tenório Silva
+          note: 'UFPE' 
+          values: ["PhD", "Co-advisor", "2026"]
+
+        - feature: Adriano Novais Morais
+          note: 'CESAR School' 
+          values: ["PhD", "Advisor", "2025"]
+
+        - feature: Matheus Vilarim Pereira dos Santos
+          note: 'CESAR School'
+          values: ["PhD", "Advisor", "2025"]
+          
+
+        - feature: Igor Fugagnoli Baptista do Rêgo
+          note: 'CESAR School'
+          values: ["MSc", "Advisor", "2026"]
+
+        - feature: Eduardo Silva dos Santos
+          note: 'CESAR School'
+          values: ["MSc", "Advisor", "2026"]
+
+        - feature: José Edson Carneiro Agra Júnior
+          note: 'CESAR School'
+          values: ["MSc", "Advisor", "2025"]
+          
+
+        - feature: Geilson Nascimento Silva
+          note: 'CESAR School'
+          values: ["MSc", "Co-advisor", "2024"]
+
+        - feature: Pedro Henrique Guimarães Liberal
+          note: 'CESAR School'
+          values: ["BSc", "Advisor", "2025"]
     design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
+      row_striping: true
       spacing:
-        padding: [0, 0, 0, 0]
-  - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+        padding: ["32px", "0", "0", "0"]
+        margin: [0, 0, 0, 0]
+
+  - block: comparison-table
+    id: former-students
     content:
-      title: 👉 Build your own academic website like this
-      text: |-
-        This site is generated by Hugo Blox Builder - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
+      title: Former Students
+      competitors:
+        - name: Degree
+        - name: Role
+        - name: Completed
+        - name: Subsequent position
+      rows:
+        - feature: Gabriel Valença Carvalho
+          note: 'CESAR School'
+          values:
+            - MSc
+            - Co-advisor
+            - Oct 2026
+            - "UX/UI Designer @ CESAR"
 
-        <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
-
-        Easily build anything with blocks - no-code required!
-        
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        - feature: João Ricardo Leitão Barros
+          note: 'CESAR School'
+          values:
+            - "BSc"
+            - Co-advisor
+            - Dec 2025
+            - "Software Engineer @ Tron Soluções"
     design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+      row_striping: true
+      spacing:
+        padding: ["0", "0", "0", "0"]
+        margin: [0, 0, 30, 0]
+
+
+  - block: map
+    id: contact
+    content:
+      title: Contact
+      subtitle: We are located at CEAGRI II, Universidade Federal Rural de Pernambuco (UFRPE), in Recife, Brazil. Please contact us to arrange a visit.
+      location:
+        address: "CEAGRI II, Praça Farias Neves, 2 - Dois Irmãos, Recife - PE, 52171-900"
+        lat: -8.0176682
+        lng: -34.9445171
+      zoom: 15
+      cta:
+        directions:
+          text: Get directions
+        phone: "+55 81 3320-5440"
+        email: wellison.santos@ufrpe.br
+    design:
+      layout: side-by-side
+      height: md
+      style: streets
 ---

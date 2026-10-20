@@ -1,0 +1,13 @@
+html {
+  scroll-behavior: smooth;
+}
+
+#former-students {
+  background-color: #f8fafc;
+  border-radius: 12px;
+}
+
+#students {
+  background-color: #f8fafc;
+  border-radius: 12px;
+}
