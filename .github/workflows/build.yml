@@ -67,6 +67,9 @@ jobs:
         # Fallback to a known stable version if not specified
         DEFAULT_VERSION="0.162.1"
         VERSION=${VERSION:-$DEFAULT_VERSION}
+
+        echo "hugoblox.yaml version: '${VERSION}'"
+        echo "Default version: '${DEFAULT_VERSION}'"
         
         # Validate version format (basic check)
         if [[ ! "$VERSION" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
