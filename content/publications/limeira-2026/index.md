@@ -6,7 +6,7 @@ authors:
 - Rafael Roque
 - Luciano Cabral
 - Fernando Aires
-- Wellison Santos
+- Wellison R. M. Santos
 - Milton Lima
 - José Suruagy
 date: '2026-01-01'

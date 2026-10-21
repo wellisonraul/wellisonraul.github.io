@@ -4,7 +4,7 @@ authors:
 - Ailton Cordeiro
 - Geilson Silva
 - Fernando Aires
-- Wellison Santos
+- Wellison R. M. Santos
 - Ricardo Lima
 - Milton Lima
 date: '2026-01-01'
