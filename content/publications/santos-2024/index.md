@@ -9,8 +9,8 @@ date: '2024-01-01'
 publishDate: '2026-10-21T12:23:18.272566Z'
 publication_types:
 - article-journal
-publication: '*Engineering Applications of Artificial Intelligence*'
-doi: https://doi.org/10.1016/j.engappai.2023.107649
+publication:
+  name: '*Engineering Applications of Artificial Intelligence*'
 abstract: 'Time series forecasting has been applied to predict performance degradation
   in Microservice-Based Applications (MBAs). The prediction enables MBA adaptation
   to avoid performance degradation and maintain the customer experience. The approaches
@@ -32,6 +32,10 @@ abstract: 'Time series forecasting has been applied to predict performance degra
   decision-making for MBA interventions, avoiding incorrect adjustments that could
   degrade the customer experience. Source code, figures, and data sets are publicly
   available at https://github.com/gfads/mps-methodology.'
+
+hugoblox:
+  ids:
+    doi: 10.1016/j.engappai.2023.107649
 tags:
 - Ensemble learning
 - Time series forecasting

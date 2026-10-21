@@ -10,8 +10,11 @@ date: '2026-01-01'
 publishDate: '2026-10-21T12:23:18.299875Z'
 publication_types:
 - article-journal
-publication: '*Internet of Things*'
-doi: https://doi.org/10.1016/j.iot.2025.101827
+publication: 
+  name: '*Internet of Things*'
+hugoblox:
+  ids:
+    doi: 10.1016/j.iot.2025.101827
 abstract: Advances in the Internet of Things (IoT) have led to several challenges
   across domains, creating opportunities for new solutions. The large volume of data
   and high processing demands of IoT applications, typically handled by cloud providers,

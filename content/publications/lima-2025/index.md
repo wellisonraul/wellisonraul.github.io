@@ -12,8 +12,11 @@ date: '2025-10-01'
 publishDate: '2026-10-21T12:23:18.287202Z'
 publication_types:
 - article-journal
-publication: '*The Journal of Supercomputing*'
-doi: 10.1007/s11227-025-07850-2
+publication: 
+  name: '*The Journal of Supercomputing*'
+hugoblox:
+  ids:
+    doi: 10.1007/s11227-025-07850-2
 abstract: IoT environments face significant security challenges due to their distributed,
   heterogeneous, and dynamic nature. Traditional security systems have been proven
   inadequate in addressing these complexities, prompting the exploration of advanced

@@ -10,8 +10,8 @@ date: '2025-01-01'
 publishDate: '2026-10-21T12:23:18.279888Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing*'
-doi: 10.1145/3672608.3707770
+publication: 
+  name: '*Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing*'
 abstract: Adaptive containerised systems have been developed using the Time Series
   Forecasting (TSF) technique. TSF analyses historical data patterns to estimate future
   trends, assuming they will occur again. Identifying future trends allows anticipating
@@ -33,6 +33,9 @@ abstract: Adaptive containerised systems have been developed using the Time Seri
   as the number of containers composing the application increases. This comparative
   study is expected to be a helpful guide for developers who want to choose the most
   effective proactive approach for their auto-scaling solutions.
+hugoblox:
+  ids:
+    doi: 10.1145/3672608.3707770
 tags:
 - time series forecasting
 - univariate forecasting
