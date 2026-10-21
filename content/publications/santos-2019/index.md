@@ -20,6 +20,8 @@ hugoblox:
 tags:
 - ''
 links:
+- name: PDF
+  url: https://sol.sbc.org.br/index.php/sbrc_estendido/article/view/7771/8273
 - name: URL
   url: https://sol.sbc.org.br/index.php/sbrc_estendido/article/view/7771
 ---

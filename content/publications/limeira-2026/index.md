@@ -21,6 +21,8 @@ hugoblox:
 tags:
 - ''
 links:
+- name: PDF
+  url: https://sol.sbc.org.br/index.php/sbseg/article/view/44294/44057
 - name: URL
   url: https://sol.sbc.org.br/index.php/sbseg/article/view/44294
 ---
