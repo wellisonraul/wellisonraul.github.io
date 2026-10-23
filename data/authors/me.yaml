@@ -19,7 +19,7 @@ bio: |
 
 affiliations:
   - name: UFRPE
-    url: https://www.ufrpe.br/
+    url: https://www.dc.ufrpe.br/
 
 links:
   - icon: at-symbol
@@ -45,8 +45,9 @@ interests:
 education:
   - degree: PhD in Computer Science
     institution: Universidade Federal de Pernambuco
-    start: 2020-03-01
-    end: 2024-08-26
+    # start: 2020-03-01
+    # end: 2024-08-26
+    start: 2024
     summary: |
       Thesis on proactive adaptation of microservices-based applications.
     button:
@@ -56,15 +57,13 @@ education:
 
   - degree: MSc in Computer Science
     institution: Universidade Federal de Pernambuco
-    date_start: 2018-03-01
-    date_end: 2024-02-28
+    start: 2020
     summary: |
       Thesis on machine-learning-based adaptation of microservices.
 
   - degree: BSc in Computer Science
     institution: Universidade do Estado do Rio Grande do Norte
-    date_start: 2013-09-01
-    date_end: 2017-02-28
+    start: 2018
     summary: |
       Summa Cum Laude (GPA: 9.2/10).
 
