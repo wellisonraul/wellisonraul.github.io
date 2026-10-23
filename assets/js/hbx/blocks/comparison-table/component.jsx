@@ -7,7 +7,7 @@ function escapeHtml(s) {
 function renderInline(text) {
   return escapeHtml(text).replace(
     /\[([^\]]+)\]\((https?:\/\/[^)\s]+|\/[^)\s]*)\)/g,
-    '<a href="$2" style="color:inherit;text-decoration:underline;text-underline-offset:3px" target="_blank" rel="noopener noreferrer">$1</a>',
+    '<a href="$2" style="color:inherit" class="no-underline hover:underline underline-offset-4" target="_blank" rel="noopener noreferrer">$1</a>',
   );
 }
 
