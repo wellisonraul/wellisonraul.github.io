@@ -174,7 +174,7 @@ function DesktopTable({competitors, rows, cta, icon_svgs, rowStriping = false}) 
                   <tr key={ri} class="border-t border-gray-100 dark:border-gray-700/50">
                     <td class={`px-6 py-4 ${cellBg(-1)}`}>
                       <div class="text-sm font-medium text-gray-900 dark:text-white" dangerouslySetInnerHTML={{__html: renderInline(row.feature)}} />
-                      {row.note && <div class="text-xs text-gray-500 dark:text-gray-400 mt-0.5">{row.note}</div>}
+                      {row.note && <div class="text-xs text-gray-500 dark:text-gray-400 mt-0.5" dangerouslySetInnerHTML={{__html: renderInline(row.note)}} />}
                     </td>
                     {competitors.map((_, ci) => (
                       <td key={ci} class={`px-6 py-4 ${cellBg(ci)}`}>
@@ -257,7 +257,7 @@ function MobileCards({competitors, rows, cta, icon_svgs}) {
                   <li key={ri} class="flex items-start justify-between gap-4">
                     <div class="flex-1 min-w-0">
                       <div class="text-sm font-medium text-gray-900 dark:text-white" dangerouslySetInnerHTML={{__html: renderInline(row.feature)}} />
-                      {row.note && <div class="text-xs text-gray-500 dark:text-gray-400 mt-0.5">{row.note}</div>}
+                      {row.note && <div class="text-xs text-gray-500 dark:text-gray-400 mt-0.5" dangerouslySetInnerHTML={{__html: renderInline(row.note)}} />}
                     </div>
                     <div class="flex-shrink-0">
                       <CellContent cell={resolveCell((row.values ?? [])[ci])} isHighlighted={isYou} />

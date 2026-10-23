@@ -57,34 +57,6 @@ sections:
     design:
       view: citation
 
-  - block: markdown
-    id: team
-    content:
-      text: |
-        # Current Students
-
-        | Name | Degree | Role | Since |
-        |:---|:---:|:---:|:---:|
-        | Ailton da Silva Cordeiro<br><small>CESAR School</small> | PhD | Advisor | 2026 |
-        | Damião de Oliveira Melo Neto<br><small>CESAR School</small> | PhD | Advisor | 2026 |
-        | Luis Eduardo Tenório Silva<br><small>UFPE</small> | PhD | Co-advisor | 2026 |
-        | Adriano Novais Morais<br><small>CESAR School</small> | PhD | Advisor | 2025 |
-        | Matheus Vilarim Pereira dos Santos<br><small>CESAR School</small> | PhD | Advisor | 2025 |
-        | Gustavo Maciel dos Santos<br><small>CESAR School</small> | MSc | Co-advisor | 2026 |
-        | Igor Fugagnoli Baptista do Rêgo<br><small>CESAR School</small> | MSc | Advisor | 2026 |
-        | Eduardo Silva dos Santos<br><small>CESAR School</small> | MSc | Advisor | 2026 |
-        | José Edson Carneiro Agra Júnior<br><small>CESAR School</small> | MSc | Advisor | 2025 |
-        | Geilson Nascimento Silva<br><small>CESAR School</small> | MSc | Co-advisor | 2024 |
-        | Pedro Henrique Guimarães Liberal<br><small>CESAR School</small> | BSc | Advisor | 2025 |
-
-        #
-        # Former Students
-
-        | Name | Degree | Role | Completed | Subsequent position |
-        |:---|:---:|:---|:---:|:---|
-        | Gabriel Valença Carvalho<br><small>CESAR School</small> | MSc | Co-advisor | Oct 2026 | UX/UI Designer @ CESAR |
-        | João Ricardo Leitão Barros<br><small>CESAR School</small> | BSc | Co-advisor | Dec 2025 | Software Engineer @ Tron Soluções |
-
   - block: comparison-table
     id: students
     content:
@@ -94,48 +66,48 @@ sections:
         - name: Role
         - name: Since
       rows:
-        - feature: "[Ailton da Silva Cordeiro](https://exemplo.com)"
-          note: 'CESAR School'
+        - feature: "[Ailton da Silva Cordeiro](https://br.linkedin.com/in/ailton-cordeiro-14a5431aa)"
+          note: "[CESAR School](https://www.cesar.school/)"
           values: ["PhD", "Advisor", "2026"]
 
-        - feature: Damião de Oliveira Melo Neto
-          note: 'CESAR School'
+        - feature: "[Damião de Oliveira Melo Neto](https://www.linkedin.com/in/dami%C3%A3o-neto/)"
+          note: "[CESAR School](https://www.cesar.school/)"
           values: ["PhD", "Advisor", "2026"]
 
-        - feature: Luis Eduardo Tenório Silva
-          note: 'UFPE' 
+        - feature: "[Luis Eduardo Tenório Silva](https://www.linkedin.com/in/lets00/)"
+          note: '[UFPE](https://portal.cin.ufpe.br/)' 
           values: ["PhD", "Co-advisor", "2026"]
 
-        - feature: Adriano Novais Morais
-          note: 'CESAR School' 
+        - feature: "[Adriano Novais Morais](https://www.linkedin.com/in/adriano-n-ab17554a/)"
+          note: "[CESAR School](https://www.cesar.school/)" 
           values: ["PhD", "Advisor", "2025"]
 
-        - feature: Matheus Vilarim Pereira dos Santos
-          note: 'CESAR School'
+        - feature: "[Matheus Vilarim Pereira dos Santos](https://www.linkedin.com/in/matheusvilarim/)"
+          note: "[CESAR School](https://www.cesar.school/)"
           values: ["PhD", "Advisor", "2025"]    
           
-        - feature: Gustavo Maciel dos Santos
-          note: 'CESAR School'
+        - feature: "[Gustavo Maciel dos Santos](https://www.linkedin.com/in/gugasantos/)"
+          note: "[CESAR School](https://www.cesar.school/)"
           values: ["MSc", "Co-advisor", "2026"]
 
-        - feature: Igor Fugagnoli Baptista do Rêgo
-          note: 'CESAR School'
+        - feature: "[Igor Fugagnoli Baptista do Rêgo](https://br.linkedin.com/in/igor-fugagnoli/en)"
+          note: "[CESAR School](https://www.cesar.school/)"
           values: ["MSc", "Advisor", "2026"]
 
-        - feature: Eduardo Silva dos Santos
-          note: 'CESAR School'
+        - feature: "[Eduardo Silva dos Santos](https://www.linkedin.com/in/es-santos/)"
+          note: "[CESAR School](https://www.cesar.school/)"
           values: ["MSc", "Advisor", "2026"]
 
-        - feature: José Edson Carneiro Agra Júnior
-          note: 'CESAR School'
+        - feature: "[José Edson Carneiro Agra Júnior](https://br.linkedin.com/in/jos%C3%A9-edson-carneiro-agra-j%C3%BAnior-a38291218)"
+          note: "[CESAR School](https://www.cesar.school/)"
           values: ["MSc", "Advisor", "2025"]
           
-        - feature: Geilson Nascimento Silva
-          note: 'CESAR School'
+        - feature: "[Geilson Nascimento Silva](https://www.linkedin.com/in/geilsonfidelis/)"
+          note: "[CESAR School](https://www.cesar.school/)"
           values: ["MSc", "Co-advisor", "2024"]
 
-        - feature: Pedro Henrique Guimarães Liberal
-          note: 'CESAR School'
+        - feature: "[Pedro Henrique Guimarães Liberal](https://www.linkedin.com/in/pedrohgliberal/)"
+          note: "[CESAR School](https://www.cesar.school/)"
           values: ["BSc", "Advisor", "2025"]
     design:
       row_striping: true
@@ -152,26 +124,22 @@ sections:
         - name: Role
         - name: Completed
         - name: Subsequent position
-          is_highlighted: true            # Destaca a coluna inteira
-          cta:
-            text: "Começar"               # O botão CTA vai aparecer no rodapé desta coluna
-            url: "https://exemplo.com"
       rows:
-        - feature: Gabriel Valença Carvalho
-          note: 'CESAR School'
+        - feature: "[Gabriel Valença Carvalho](https://www.linkedin.com/in/gabrielvcarvalho/)"
+          note: "[CESAR School](https://www.cesar.school/)"
           values:
             - MSc
             - Co-advisor
             - Oct 2026
-            - "UX/UI Designer @ CESAR"
+            - "UX/UI Designer @ [CESAR](https://www.cesar.org.br)"
 
-        - feature: João Ricardo Leitão Barros
-          note: 'CESAR School'
+        - feature: "[João Ricardo Leitão Barros](https://www.linkedin.com/in/jo%C3%A3o-ricardo-leit%C3%A3o-barros-892096251/)"
+          note: "[CESAR School](https://www.cesar.school/)"
           values:
-            - "BSc"
+            - BSc
             - Co-advisor
             - Dec 2025
-            - "Software Engineer @ Tron Soluções"
+            - "Software Engineer @ [Tron Soluções](https://www.linkedin.com/company/tronsolucoestecnologicas/)"
     design:
       row_striping: true
       spacing:
