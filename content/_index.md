@@ -85,8 +85,11 @@ sections:
 
         - feature: Matheus Vilarim Pereira dos Santos
           note: 'CESAR School'
-          values: ["PhD", "Advisor", "2025"]
+          values: ["PhD", "Advisor", "2025"]    
           
+        - feature: Gustavo Maciel dos Santos
+          note: 'CESAR School'
+          values: ["MSc", "Co-advisor", "2026"]
 
         - feature: Igor Fugagnoli Baptista do Rêgo
           note: 'CESAR School'
@@ -100,7 +103,6 @@ sections:
           note: 'CESAR School'
           values: ["MSc", "Advisor", "2025"]
           
-
         - feature: Geilson Nascimento Silva
           note: 'CESAR School'
           values: ["MSc", "Co-advisor", "2024"]
