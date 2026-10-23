@@ -57,6 +57,33 @@ sections:
     design:
       view: citation
 
+  - block: markdown
+    id: team
+    content:
+      text: |
+        # Current Students
+
+        | Name | Degree | Role | Since |
+        |:---|:---:|:---:|:---:|
+        | Ailton da Silva Cordeiro<br><small>CESAR School</small> | PhD | Advisor | 2026 |
+        | Damião de Oliveira Melo Neto<br><small>CESAR School</small> | PhD | Advisor | 2026 |
+        | Luis Eduardo Tenório Silva<br><small>UFPE</small> | PhD | Co-advisor | 2026 |
+        | Adriano Novais Morais<br><small>CESAR School</small> | PhD | Advisor | 2025 |
+        | Matheus Vilarim Pereira dos Santos<br><small>CESAR School</small> | PhD | Advisor | 2025 |
+        | Gustavo Maciel dos Santos<br><small>CESAR School</small> | MSc | Co-advisor | 2026 |
+        | Igor Fugagnoli Baptista do Rêgo<br><small>CESAR School</small> | MSc | Advisor | 2026 |
+        | Eduardo Silva dos Santos<br><small>CESAR School</small> | MSc | Advisor | 2026 |
+        | José Edson Carneiro Agra Júnior<br><small>CESAR School</small> | MSc | Advisor | 2025 |
+        | Geilson Nascimento Silva<br><small>CESAR School</small> | MSc | Co-advisor | 2024 |
+        | Pedro Henrique Guimarães Liberal<br><small>CESAR School</small> | BSc | Advisor | 2025 |
+
+        #
+        # Former Students
+
+        | Name | Degree | Role | Completed | Subsequent position |
+        |:---|:---:|:---|:---:|:---|
+        | Gabriel Valença Carvalho<br><small>CESAR School</small> | MSc | Co-advisor | Oct 2026 | UX/UI Designer @ CESAR |
+        | João Ricardo Leitão Barros<br><small>CESAR School</small> | BSc | Co-advisor | Dec 2025 | Software Engineer @ Tron Soluções |
 
   - block: comparison-table
     id: students
@@ -67,7 +94,7 @@ sections:
         - name: Role
         - name: Since
       rows:
-        - feature: Ailton da Silva Cordeiro
+        - feature: "[Ailton da Silva Cordeiro](https://exemplo.com)"
           note: 'CESAR School'
           values: ["PhD", "Advisor", "2026"]
 
@@ -125,6 +152,10 @@ sections:
         - name: Role
         - name: Completed
         - name: Subsequent position
+          is_highlighted: true            # Destaca a coluna inteira
+          cta:
+            text: "Começar"               # O botão CTA vai aparecer no rodapé desta coluna
+            url: "https://exemplo.com"
       rows:
         - feature: Gabriel Valença Carvalho
           note: 'CESAR School'
@@ -146,6 +177,7 @@ sections:
       spacing:
         padding: ["0", "0", "0", "0"]
         margin: [0, 0, 30, 0]
+
 
 
   - block: map
