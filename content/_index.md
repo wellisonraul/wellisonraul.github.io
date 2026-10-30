@@ -102,10 +102,6 @@ sections:
           note: "[CESAR School](https://www.cesar.school/)"
           values: ["MSc", "Advisor", "2025"]
           
-        - feature: "[Geilson Nascimento Silva](https://www.linkedin.com/in/geilsonfidelis/)"
-          note: "[CESAR School](https://www.cesar.school/)"
-          values: ["MSc", "Co-advisor", "2024"]
-
         - feature: "[Pedro Henrique Guimarães Liberal](https://www.linkedin.com/in/pedrohgliberal/)"
           note: "[CESAR School](https://www.cesar.school/)"
           values: ["BSc", "Advisor", "2025"]
@@ -125,6 +121,15 @@ sections:
         - name: Completed
         - name: Subsequent position
       rows:
+
+        - feature: "[Geilson Nascimento Silva](https://www.linkedin.com/in/geilsonfidelis/)"
+          note: "[CESAR School](https://www.cesar.school/)"
+          values:
+            - MSc
+            - Co-advisor
+            - Oct 2026
+            - ""
+
         - feature: "[Gabriel Valença Carvalho](https://www.linkedin.com/in/gabrielvcarvalho/)"
           note: "[CESAR School](https://www.cesar.school/)"
           values:
@@ -140,6 +145,9 @@ sections:
             - Co-advisor
             - Dec 2025
             - "Software Engineer @ [Tron Soluções](https://www.linkedin.com/company/tronsolucoestecnologicas/)"
+
+
+
     design:
       row_striping: true
       spacing:
