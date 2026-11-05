@@ -104,7 +104,7 @@ sections:
           
         - feature: "[Pedro Henrique Guimarães Liberal](https://www.linkedin.com/in/pedrohgliberal/)"
           note: "[CESAR School](https://www.cesar.school/)"
-          values: ["BSc", "Advisor", "2025"]
+          values: ["MSc", "Advisor", "2025"]
     design:
       row_striping: true
       spacing:
