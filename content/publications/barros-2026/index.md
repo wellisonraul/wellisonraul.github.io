@@ -5,7 +5,7 @@ authors:
 - João R. L. Barros
 - Jymmy Barreto
 - Wellison R. M. Santos
-date: '2026-01-01'
+date: '2026-11-25'
 publishDate: '2026-11-25T22:40:50.020236Z'
 publication_types:
 - paper-conference

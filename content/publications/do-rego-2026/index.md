@@ -12,7 +12,7 @@ authors:
 - Milton Lima
 - Anderson M. de Morais
 - Wellison R. M. Santos
-date: '2026-01-01'
+date: '2026-11-25'
 publishDate: '2026-11-26T19:49:06.684279Z'
 publication_types:
 - paper-conference
