@@ -7,7 +7,7 @@ authors:
 - Wellison R. M. Santos
 - Ricardo Lima
 - Milton Lima
-date: '2026-01-01'
+date: '2026-09-01'
 publishDate: '2026-10-21T12:23:18.319177Z'
 publication_types:
 - paper-conference

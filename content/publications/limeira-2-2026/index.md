@@ -8,7 +8,7 @@ authors:
 - Fernando Aires
 - Wellison R. M. Santos
 - Milton Lima
-date: '2026-01-01'
+date: '2026-09-01'
 publishDate: '2026-10-21T12:23:18.313161Z'
 publication_types:
 - paper-conference
