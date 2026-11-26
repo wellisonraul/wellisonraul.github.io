@@ -16,9 +16,11 @@ date: '2026-01-01'
 publishDate: '2026-11-26T19:49:06.684279Z'
 publication_types:
 - paper-conference
-publication: '*2026 IEEE International Conference on Systems, Man, and Cybernetics
-  (SMC)*'
-doi: 10.1109/SMC63593.2026.11789189
+publication: 
+  name: '*2026 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*'
+hugoblox:
+  ids:
+    doi: 10.1109/SMC63593.2026.11789189
 tags:
 - Modeling;Cyber threat intelligence;Printing;Architecture;Computer architecture;Security;Displays;Ecosystems;Indexes;Indexing
 ---
